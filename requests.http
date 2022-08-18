@@ -11,3 +11,11 @@ content-type: application/json
 
 ### Delete car
 DELETE http://localhost:3000/cars/f05d4620-8181-4bae-9ae2-d59d9d7b6b8a
+
+
+
+### Brands
+GET http://localhost:3000/brands
+
+### seed
+GET http://localhost:3000/seed
